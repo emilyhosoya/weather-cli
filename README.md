@@ -1,4 +1,4 @@
-# weather-admin
+# Weather Command Line Interface
 DU Coding Bootcamp Classwork
 
 Uses `weather-js` NPM package (https://www.npmjs.com/package/weather-js)
